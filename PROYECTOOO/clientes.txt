@@ -1,0 +1,1 @@
+{"nombre": "dsasd", "cedula": "3231313", "edad": "17", "partido": "France vs Poland", "tipo": "VIP", "productos": []}[{"Nombre": "Guapo Metal Pelota", "Precio": "571.88", "Cantidad": "273", "Tipo": "package"}]
